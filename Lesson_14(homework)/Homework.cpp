@@ -82,6 +82,7 @@ int main()
 	srand(static_cast<unsigned>(time(nullptr)));
 	vector<string> obj_1{ "Hello", "Fofa", "Opa", "Yuil", "Nettttt" };
 	vector<string> obj_2;
+
 	try
 	{
 		Add_Element(obj_1, "Boba");
